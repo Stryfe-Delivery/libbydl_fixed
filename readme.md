@@ -1,11 +1,9 @@
 # LibbyDL
-a "simple" OverDrive ebook downloader
+a "simple" ebook downloader, bringing limited functionality to older unmaintained projects
 
 ACSM downloading logic from: https://github.com/Leseratte10/acsm-calibre-plugin
-
 DRM removal logic from: https://github.com/noDRM/DeDRM_tools
-
-Original merger idea from: ....
+Original merger idea from: https://github.com/notmarek/libbydl
 
 # ACSM → EPUB de-DRM Server
 
