@@ -1,0 +1,3 @@
+testing added and removed a browser plugin. Legacy code is available that detects the acsm download and automatically pushes it or the hashed contents to the server. The server could logically from there automatically run with that file in a hands-free mode. CORS limits on most browsers block the file interaction, and now with manifest v3 limit the data push. 
+
+to-do : investigate this further to bring automation back, may only work if python runs on host machine to help defeat CORS
